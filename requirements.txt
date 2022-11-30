@@ -1,6 +1,4 @@
-json
 urllib3
-pickle
 numpy==1.23.5
 Flask==2.2.2
 Werkzeug==2.2.2
